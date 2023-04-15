@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.bdd.testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.49 sec <<< FAILURE! - in com.bdd.testRunner.TestRunner
+runScenario(com.bdd.testRunner.TestRunner)  Time elapsed: 4.941 sec  <<< FAILURE!
+org.openqa.selenium.remote.http.ConnectionFailedException: 
+Unable to establish websocket connection to http://localhost:54120/devtools/browser/3e28b99b-4daa-4313-b0bc-d9d74a1e418d
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17'
+Driver info: driver.version: ChromeDriver
+
